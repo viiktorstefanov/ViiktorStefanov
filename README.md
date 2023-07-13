@@ -12,14 +12,5 @@
 * [Software University - Programming Fundamentals with JavaScript - January 2023](https://softuni.bg/certificates/details/166091/98066d3e)
 * [Software University - JavaScript Advanced - May 2023](https://softuni.bg/certificates/details/174124/7392ef54)
 
-<p align="left"> while(no success) {
-                  try {
-                    again();
-                  if(dead) {
-                    break;
-                           }
-                            }
-                                   }</p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viktor0110&show_icons=true&locale=en&layout=compact" alt="viktor0110" /></p>
 
