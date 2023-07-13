@@ -6,7 +6,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,git,mongodb,nodejs,ps" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,git,mongodb,nodejs,ps,docker" /></a>
 </p>
 
 ### Certificates
