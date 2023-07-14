@@ -16,3 +16,4 @@
 * [Software University - JavaScript Applications - June 2023](https://softuni.bg/certificates/details/174124/7392ef54)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viktor0110&show_icons=true&locale=en&layout=compact" alt="viktor0110" /></p>
+<p><img align="center" src="https://github.com/viktor0110/viktor0110/blob/main/skills.png" /></p>
