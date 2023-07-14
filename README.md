@@ -6,13 +6,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,git,mongodb,nodejs,ps,docker" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,ps" /></a>
 </p>
 
 ### Certificates
 * [Software University - Programming Basics - October 2022 ](https://softuni.bg/certificates/details/147897/2fefa0e5)
 * [Software University - Programming Fundamentals with JavaScript - January 2023](https://softuni.bg/certificates/details/166091/98066d3e)
 * [Software University - JavaScript Advanced - May 2023](https://softuni.bg/certificates/details/174124/7392ef54)
+* [Software University - JavaScript Applications - June 2023](https://softuni.bg/certificates/details/174124/7392ef54)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viktor0110&show_icons=true&locale=en&layout=compact" alt="viktor0110" /></p>
-
