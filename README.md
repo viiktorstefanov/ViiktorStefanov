@@ -7,7 +7,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img align="center" src="https://github.com/viktor0110/viktor0110/blob/main/skills.png" />
-  <img src="https://skillicons.dev/icons?i=html,css,express,hbs" />
+  <img src="https://skillicons.dev/icons?i=html,css,express,handlebarsjs" />
 </p>
 
 ### Certificates
