@@ -6,7 +6,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img align="center" src="https://github.com/viktor0110/viktor0110/blob/main/stack.png" />
+  <img align="left" src="https://github.com/viktor0110/viktor0110/blob/main/stack.png" />
 </p>
 
 ### Certificates
