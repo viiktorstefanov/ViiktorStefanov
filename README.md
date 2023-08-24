@@ -9,7 +9,9 @@
   <img align="left" src="https://github.com/viktor0110/viktor0110/blob/main/stack.png" />
 </p>
 
-  <h3 align="left">### Certificates::</h3>
+  <br/>
+  <br>
+  <h3 align="left">Certificates:</h3>
   
  
 * [Software University - Programming Basics - October 2022 ](https://softuni.bg/certificates/details/147897/2fefa0e5)
