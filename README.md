@@ -8,7 +8,8 @@
 <p align="left">
   <img align="left" src="https://github.com/viktor0110/viktor0110/blob/main/stack.png" />
 </p>
-  
+  <br />
+  <br />
   ### Certificates
 * [Software University - Programming Basics - October 2022 ](https://softuni.bg/certificates/details/147897/2fefa0e5)
 * [Software University - Programming Fundamentals with JavaScript - January 2023](https://softuni.bg/certificates/details/166091/98066d3e)
