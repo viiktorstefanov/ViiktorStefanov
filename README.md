@@ -1,12 +1,12 @@
-<h1 align="left">Hi there, I'm Viktor Stefanov 👋</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Hi there, I'm Viktor Stefanov 👋</h1>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/viktor-stefanov-953047263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/viktor-stefanov-953047263" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img align="left" src="https://github.com/viktor0110/viktor0110/blob/main/stack.png" />
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img align="center" src="https://github.com/viktor0110/viktor0110/blob/main/stack.png" />
 </p>
 
 ### Certificates
