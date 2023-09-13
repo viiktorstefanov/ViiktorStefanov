@@ -7,9 +7,9 @@
 <p align="left">
   <img align="left" src="https://github.com/viktor0110/viktor0110/blob/main/stack.png" />
 </p>
-
-  <br/>
-  <br>
+<br>
+<br/>
+<br>
   <h3 align="left">Certificates:</h3>
   
  
