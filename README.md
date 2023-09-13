@@ -6,9 +6,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img align="left" src="https://github.com/viktor0110/viktor0110/blob/main/stack.png" />
+  <br>
 </p>
 <br>
-<br/>
 <br>
   <h3 align="left">Certificates:</h3>
 
