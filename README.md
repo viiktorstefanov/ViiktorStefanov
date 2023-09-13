@@ -10,7 +10,7 @@
 <br>
 <br/>
 <br>
-  <h3 align="left">Certificates:</h3>
+  <h3 align="left" margin-top="10px" >Certificates:</h3>
   
  
 * [Software University - Programming Basics - October 2022 ](https://softuni.bg/certificates/details/147897/2fefa0e5)
