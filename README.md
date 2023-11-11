@@ -4,7 +4,6 @@
 <a href="https://www.linkedin.com/in/viktor-stefanov-953047263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/viktor-stefanov-953047263" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 #### Front-end:
 <p align="left">
   <a>
@@ -20,8 +19,8 @@
 </p>
 <br>
 <br>
-  <h3 align="left">Certificates:</h3>
 
+#### Certificates:
 
 * [Software University - Programming Basics.](https://softuni.bg/certificates/details/147897/2fefa0e5)
 * [Software University - Programming Fundamentals with JavaScript.](https://softuni.bg/certificates/details/166091/98066d3e)
