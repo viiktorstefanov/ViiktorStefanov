@@ -7,7 +7,7 @@
 #### Front-end:
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,lit-html,handlebars" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,lit" />
   </a>
 </p>
 
