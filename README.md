@@ -1,9 +1,3 @@
-#### Connect with me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/viktor-stefanov-953047263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/viktor-stefanov-953047263" height="30" width="40" /></a>
-</p>
-
 #### Front-end:
 <p align="left">
   <a>
@@ -32,3 +26,9 @@
 * [Software University - JavaScript Advanced.](https://softuni.bg/certificates/details/174124/7392ef54)
 * [Software University - JavaScript Applications.](https://softuni.bg/certificates/details/180040/65f26b18)
 * [Software University - JavaScript Back-End.](https://softuni.bg/certificates/details/190511/2dd2f159)
+
+#### Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/viktor-stefanov-953047263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/viktor-stefanov-953047263" height="30" width="40" /></a>
+</p>
