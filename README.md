@@ -21,7 +21,7 @@
 #### Other:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,photoshop,chai,mocha" />
+    <img src="https://skillicons.dev/icons?i=git,photoshop" />
   </a>
 </p>
 
