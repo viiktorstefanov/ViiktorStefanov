@@ -18,6 +18,13 @@
   </a>
 </p>
 
+#### Other:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,photoshop,chai,mocha" />
+  </a>
+</p>
+
 #### Certificates:
 
 * [Software University - Programming Basics.](https://softuni.bg/certificates/details/147897/2fefa0e5)
