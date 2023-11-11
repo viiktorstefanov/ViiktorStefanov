@@ -17,8 +17,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,chai,mocha," />
   </a>
 </p>
-<br>
-<br>
 
 #### Certificates:
 
