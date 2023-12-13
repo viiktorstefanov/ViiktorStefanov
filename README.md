@@ -8,7 +8,7 @@
 #### Back-end:
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,chai,mocha," />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   </a>
 </p>
 
