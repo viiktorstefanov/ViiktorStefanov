@@ -33,3 +33,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/viktorstefanov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/viktor-stefanov-953047263" height="30" width="40" /></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViiktorStefanov&layout=compact&theme=slateorange)](https://github.com/IvanSimeonov/github-readme-stats)
