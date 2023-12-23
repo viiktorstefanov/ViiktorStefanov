@@ -21,6 +21,7 @@
 
 #### Certificates:
 
+* [Udemy - TypeScript.](https://github.com/viiktorstefanov/ViiktorStefanov/blob/main/typescript.jpg)
 * [Software University - JavaScript React.](https://softuni.bg/certificates/details/197757/5626224d)
 * [Software University - JavaScript Back-End.](https://softuni.bg/certificates/details/190511/2dd2f159)
 * [Software University - JavaScript Applications.](https://softuni.bg/certificates/details/180040/65f26b18)
