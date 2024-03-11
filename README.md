@@ -21,7 +21,9 @@
 
 #### Certificates:
 
-* [Udemy - TypeScript.](https://github.com/viiktorstefanov/ViiktorStefanov/blob/main/typescript.jpg)
+
+* [HackBulgaria - Practical use of ChatGPT in software development.](https://github.com/viiktorstefanov/ViiktorStefanov/blob/main/typescript.jpg)
+* [Udemy - TypeScript.](https://github.com/viiktorstefanov/ViiktorStefanov/blob/main/HackBulgaria_Masterclass_Viktor Stefanov_15.02.pdf)
 * [Software University - React.](https://softuni.bg/certificates/details/197757/5626224d)
 * [Software University - JavaScript Back-End.](https://softuni.bg/certificates/details/190511/2dd2f159)
 * [Software University - JavaScript Applications.](https://softuni.bg/certificates/details/180040/65f26b18)
