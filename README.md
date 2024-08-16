@@ -22,6 +22,7 @@
 </p>
 
 #### Certificates:
+* [HackerRank - Frontend Developer (React).](https://www.hackerrank.com/certificates/0728ced9e4d8)
 * [Software University - Angular.](https://softuni.bg/certificates/details/211776/fc7b72bc)
 * [Practical use of ChatGPT in software development.](https://github.com/viiktorstefanov/ViiktorStefanov/blob/main/HackBulgaria_Masterclass_Viktor%20Stefanov_15.02.pdf)
 * [Udemy - TypeScript.](https://github.com/viiktorstefanov/ViiktorStefanov/blob/main/typescript.jpg)
