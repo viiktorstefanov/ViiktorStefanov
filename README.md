@@ -3,7 +3,7 @@
 #### Front-end:
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,sass,tailwind" />
   </a>
 </p>
 
