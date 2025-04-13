@@ -3,21 +3,21 @@
 #### Front-end:
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,tailwind,mui,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,tailwind,mui,styledcomponents,sass" />
   </a>
 </p>
 
 #### Back-end:
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,mongodb,postgresql,firebase" />
   </a>
 </p>
 
 #### Other:
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=git,github,photoshop,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,bitbucket,github,photoshop,postman,vscode" />
   </a>
 </p>
 
