@@ -17,7 +17,7 @@
 #### Other:
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=git,bitbucket,github,photoshop,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,bitbucket,github,photoshop,postman,vscode,docker" />
   </a>
 </p>
 
