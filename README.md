@@ -1,4 +1,4 @@
-### Portfolio: [Viktor Stefanov](https://viktor-stefanov.dev/)
+### Portfolio: [Viktor Stefanov](https://viktor-stefanov.dev)
 
 #### Front-end:
 <p align="left">
